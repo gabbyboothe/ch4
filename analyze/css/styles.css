@@ -1,33 +1,59 @@
+/* gabby boothe
+3-12-24
+css style for analyze/*
+
+/*CSS Reset/*
+
 #css1, #css2, #css3 {
     width: 40%;
     float: left;
     padding: 0 1%;
-}footer {
+}
+/*style rules for footer/*
+
+footer {
     text-align: center;
     font-size: 0.85em;
     color: #47476b;
     padding: 1% 0;
     border-top: 3px solid #47476b;
-}body {
-    padding 2%;
+}
+/*style rules for body/*
+body {
+    padding: 2%;
     background-color: #d1d1e0;
-} main {
+} 
+/*style rules for main/*
+main {
     padding: 2%;
     font-family: Geneva, Arial, sans-serif;
-} header h1 {
+} 
+header h1 {
     font-size: 3em;
     font-family: Georgia, Times, serif;
     padding: 3%;
     color: #47476b;
-} nav {
+    text-align: center;
+} 
+/*style rules for nav/*
+nav {
     background-color: #47476b;
-} nav ul { margin: 0;} nav li {
+    display: inline block;
+} 
+nav ul { margin: 0;} nav li {
     display: block;
-    font-size: 1.5em; font-family: Verdana, Arial, sans-serif; font-weight: bold;
-} nav li a { display: block; color: #e3eaf8; padding: 0.5em 2em; }
+    font-size: 1.5em; 
+    font-family: Verdana, Arial, sans-serif; 
+    font-weight: bold;
+} 
+nav li a { 
+    display: block; 
+    color: #e3eaf8; 
+    padding: 0.5em 2em; }
 
 main p {
     font-size: 1.25em;
+    overflow-property: auto;
 }
 main h3 {
     padding-top: 2%;
