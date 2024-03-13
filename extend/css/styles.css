@@ -72,7 +72,7 @@ main a {
 #purple-hex{
     background: #93f;
 }
-#purple-rgb{
+#class-selector, purple-rgb{
     background:rgb(153, 51, 255);
 }
 #purple-hsl{
