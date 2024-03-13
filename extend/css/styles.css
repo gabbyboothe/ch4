@@ -58,9 +58,33 @@ main a {
 }
 
 /* Orange */
-
+#orange-hex {
+    background: #ff9900; 
+}
+#orange-rgb{
+    background: rgb(255, 153, 0);
+}
+#orange-hsl{
+   background: hsl(36, 100%, 50%);
+}
 
 /* Purple */
-
-
+#purple-hex{
+    background: #93f;
+}
+#purple-rgb{
+    background:rgb(153, 51, 255);
+}
+#purple-hsl{
+    background: hsl(270, 100%, 60%);
+}
 /* Green */
+#green-hex{
+    background:#33cc33;
+}
+#green-rgb{
+    background: rgb(51,204,51);
+}
+#green-hsl{
+    background: hsl(120, 60%, 50%);
+}
