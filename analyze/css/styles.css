@@ -2,14 +2,14 @@
 3-12-24
 css style for analyze/*
 
-/*CSS Reset/*
+/*/*CSS Reset/**/
 
 #css1, #css2, #css3 {
     width: 30%;
     float: left;
     padding: 0 1%;
 }
-/*style rules for footer/*
+/*style rules for footer/**/
 
 footer {
     text-align: left;
@@ -18,16 +18,16 @@ footer {
     padding: 1% 0;
     border-top: 3px solid #47476b;
 }
-/*style rules for body/*
+/*style rules for body/**/
 body {
     padding: 2%;
     background-color: #d1d1e0;
 } 
-/*style rules for main/*
+/*style rules for main/**/
 main {
     padding: 2%;
     font-family: Geneva, Arial, sans-serif;
-    text-color:#47476b;
+    color:#47476b;
     text-decoration: none;
     font-weight: bold;
     font-style: italic;
@@ -39,7 +39,7 @@ header h1 {
     color: #47476b;
     text-align: center;
 } 
-/*style rules for nav/*
+/*style rules for nav/**/
 nav {
     background-color: #47476b;
     display: inline block;
@@ -59,7 +59,7 @@ nav li a {
 
 main p {
     font-size: 1.25em;
-    overflow-property: auto;
+    overflow: auto;
 }
 main h3 {
     padding-top: 2%;
